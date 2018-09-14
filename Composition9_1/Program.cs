@@ -85,7 +85,7 @@ namespace Composition9_1
         }
         public void Print()
         {
-            Console.WriteLine($"{vertex1.ToString()}\n{vertex2.ToString()}\n{vertex3.ToString()}\n");
+            Console.Write($"{vertex1.ToString()}\n{vertex2.ToString()}\n{vertex3.ToString()}\n");
         }
     }
 
